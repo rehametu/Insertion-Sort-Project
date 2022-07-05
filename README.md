@@ -13,7 +13,7 @@ ____Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
 ____Big-O gösterimini yazınız.
 
-==> Insertion sort sıralamasının ilk adımında listedeki tüm değerler kontrol edildiği için n adet işlem yapılır. Bir sonraki adımda ilk sıra harici kontrol edilir ve işlem sayısı bu sefer n-1 olur. Bu dizi devam ettirildiğinde n adetten geri sayılarak 1 e kadar devam edilir. Toplam işlem sayısı n'den 1 e kadar satıların toplamı yani (n)(n-1)/2 dir. Big-O gösterimi n^2 baskınlığından kaynaklı olarak O(n^2) 'dir.
+==> Insertion sort sıralamasının ilk adımında listedeki tüm değerler kontrol edildiği için n adet işlem yapılır. Bir sonraki adımda ilk sıra harici kontrol edilir ve işlem sayısı bu sefer n-1 olur. Bu dizi devam ettirildiğinde n adetten geri sayılarak 1 e kadar devam edilir. Toplam işlem sayısı n'den 1 e kadar satıların toplamı yani (n)(n-1)/2 dir. Big-O gösterimi n^2 baskınlığından kaynaklı olarak O(n^2) = 36 'dir.
 
 
 
